@@ -1,4 +1,4 @@
-# Phase_3_project Tanzania Water pump
+# Phase_3_project Tanzania Water Wells
 
 ![insurance](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Wme4Qf9vUx2ZEe6J7iKB6g.jpeg)
 
